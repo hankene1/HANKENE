@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BioPointage Pro</string>
+    <string name="kiosk_mode_title">Borne de Pointage Biométrique</string>
+    <string name="admin_dashboard_title">Administration &amp; Supervision</string>
+    <string name="employee_portal_title">Portail Employé</string>
+    <string name="architecture_specs_title">Architecture &amp; Conformité (Phase 1)</string>
+    <string name="error_generic_attendance">Le pointage n\'a pas pu être validé. Veuillez réessayer ou contacter votre responsable.</string>
+    <string name="consent_biometric_notice">Conformément à la loi CDP (Sénégal) et au RGPD, vos données biométriques sont transformées en gabarits mathématiques chiffrés (AES-256-GCM) et ne sont jamais stockées sous forme d\'image brute.</string>
+</resources>

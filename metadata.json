@@ -1,0 +1,11 @@
+{
+  "name": "Remix BioPointage Pro",
+  "description": "Application professionnelle de pointage biométrique multi-entreprises (Empreinte, Reconnaissance Faciale, Mode Kiosque, Hors-ligne, Audit \u0026 Conformité CDP/RGPD).",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
